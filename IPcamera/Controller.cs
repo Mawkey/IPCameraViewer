@@ -1,6 +1,7 @@
 ﻿namespace IPcamera
 {
     using System;
+    using System.Diagnostics;
     using System.Net;
     using System.ServiceModel;
     using System.ServiceModel.Channels;
@@ -67,13 +68,14 @@
                   System.Security.Principal.TokenImpersonationLevel.Impersonation;
                 mediaClient.ClientCredentials.HttpDigest.ClientCredential.UserName = userName;
                 mediaClient.ClientCredentials.HttpDigest.ClientCredential.Password = password;
+                mediaClient.InnerChannel.OperationTimeout = TimeSpan.FromSeconds(3);
                 ptzClient = new PTZClient(bind,
                   new EndpointAddress($"{cameraAddress}/onvif/PTZ"));
                 ptzClient.ClientCredentials.HttpDigest.AllowedImpersonationLevel =
                   System.Security.Principal.TokenImpersonationLevel.Impersonation;
                 ptzClient.ClientCredentials.HttpDigest.ClientCredential.UserName = userName;
                 ptzClient.ClientCredentials.HttpDigest.ClientCredential.Password = password;
-
+                //ptzClient.InnerChannel.OperationTimeout = TimeSpan.FromSeconds(3);
                 var profs = mediaClient.GetProfiles();
                 profile = mediaClient.GetProfile(profs[0].token);
 
@@ -122,6 +124,8 @@
             catch (Exception ex)
             {
                 ErrorMessage = ex.Message;
+                Debug.WriteLine(ex.Message);
+                result = initialised = false;
             }
             return result;
         }

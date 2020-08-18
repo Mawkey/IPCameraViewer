@@ -64,10 +64,10 @@ namespace IPcamera
         }
         void Init(string address, string username, string password, string onvifAddress)
         {
-            this.address = address;
-            this.username = username;
+            this.address = address.Trim();
+            this.username = username.Trim();
             this.password = password;
-            this.onvifAddress = onvifAddress;
+            this.onvifAddress = onvifAddress.Trim();
 
             CreateContextMenu();
 
@@ -104,7 +104,10 @@ namespace IPcamera
             // controller is used to control ONVIF PTZ.
             controller = new Controller(true);
 
-            controller.Initialise(onvifAddress, username, password);
+            if (onvifAddress != "" && username != "" && password != "")
+            {
+                controller.Initialise(onvifAddress, username, password);
+            }
         }
 
         /// <summary>
@@ -222,6 +225,8 @@ namespace IPcamera
 
         private void LastMessageTimer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
+            if (Application.Current == null) return;
+
             Application.Current.Dispatcher.Invoke(() =>
             {
                 if (label != null) label.Content = "";
