@@ -1163,3 +1163,47 @@ C:\Users\Markus\source\repos\IPcamera\IPcamera\obj\Debug\AddCameraWindow.g.cs
 C:\Users\Markus\source\repos\IPcamera\IPcamera\obj\Debug\AddCameraWindow.baml
 C:\Users\Markus\source\repos\IPcamera\IPcamera\obj\Debug\App.baml
 C:\Users\Markus\source\repos\IPcamera\IPcamera\obj\Debug\IPcamera.csprojAssemblyReference.cache
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\IPcamera.exe.config
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\IPcamera.exe
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\IPcamera.pdb
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\LibVLCSharp.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\LibVLCSharp.WPF.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Newtonsoft.Json.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\System.Drawing.Common.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\LibVLCSharp.xml
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\LibVLCSharp.WPF.xml
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\Newtonsoft.Json.xml
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.csproj.AssemblyReference.cache
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\AddCameraWindow.g.cs
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\GridSizeWindow.g.cs
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\MainWindow.g.cs
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\App.g.cs
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera_MarkupCompile.cache
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera_MarkupCompile.lref
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\App.baml
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\AddCameraWindow.baml
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\GridSizeWindow.baml
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\MainWindow.baml
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.g.resources
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.Properties.Resources.resources
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.csproj.GenerateResource.cache
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.csproj.CoreCompileInputs.cache
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.csproj.CopyComplete
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.exe
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\IPcamera.pdb

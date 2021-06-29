@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Markus\source\repos\IPcamera\IPcamera\obj\Debug\
+D:\VS Projects\ipcamera\IPcamera\obj\Debug\
 IPcamera
 none
 false
 DEBUG;TRACE
-C:\Users\Markus\source\repos\IPcamera\IPcamera\App.xaml
+D:\VS Projects\ipcamera\IPcamera\App.xaml
 3229861941
 
 14-1052768729
-25716084312
+30-292119792
 AddCameraWindow.xaml;GridSizeWindow.xaml;MainWindow.xaml;
 
 False
